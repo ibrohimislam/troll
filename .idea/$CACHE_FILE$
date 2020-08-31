@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Project/datarecap" value="PREVIEW" />
+        <entry key="$USER_HOME$/Project/xmpp-pubsub-example" value="PREVIEW" />
+        <entry key="$USER_HOME$/Startup/Aksara/facade" value="PREVIEW" />
+        <entry key="$USER_HOME$/Startup/Aksara/facade-service" value="PREVIEW" />
+        <entry key="/private/tmp/aggregate" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+</project>
